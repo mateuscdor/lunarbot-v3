@@ -42,8 +42,8 @@ npm test
 
 👤 **Vinybergamo**
 
-- Github: [@guiireal](https://github.com/guiireal)
-- WhatsApp: [+5511996122056](wa.me/5521969790621)
+- Github: [@vinybergamo](https://github.com/vinybergamo)
+- WhatsApp: [+5521969790621](wa.me/5521969790621)
 
 <br/>
 
