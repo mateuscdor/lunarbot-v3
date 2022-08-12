@@ -1,4 +1,4 @@
-<h1 align="center">Spider Bot Lite 🤖</h1>
+<h1 align="center">Lunar Bot V3 🤖</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://opensource.org/licenses/MIT" target="_blank">
